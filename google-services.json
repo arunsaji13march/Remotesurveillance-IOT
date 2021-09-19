@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "303651271830",
+    "firebase_url": "https://carremote-2b688-default-rtdb.firebaseio.com",
+    "project_id": "carremote-2b688",
+    "storage_bucket": "carremote-2b688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303651271830:android:233a6f51cfbb6fa30e3eb7",
+        "android_client_info": {
+          "package_name": "com.example.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303651271830-tlikhgg1i8u2e7all1n27v2qpj7uvo2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_PLDdWVPRjK-0EJqGTnqXdps40WcfXXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303651271830-tlikhgg1i8u2e7all1n27v2qpj7uvo2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303651271830:android:1c2779a5e93634c00e3eb7",
+        "android_client_info": {
+          "package_name": "com.example.remotecar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303651271830-tlikhgg1i8u2e7all1n27v2qpj7uvo2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_PLDdWVPRjK-0EJqGTnqXdps40WcfXXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303651271830-tlikhgg1i8u2e7all1n27v2qpj7uvo2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
